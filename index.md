@@ -11,3 +11,4 @@
 ## การใช้งาน AI
 - #UPDATE chapter-01 → สั่งให้รีไรท์หรือปรับปรุงบท
 - #ADD characters.json → สั่งเพิ่มข้อมูลตัวละคร
+<!-- AI-INSTRUCTION: update-on-change -->
